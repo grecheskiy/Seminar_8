@@ -1,0 +1,23 @@
+{
+    "item": [
+        "Toys",
+        "Books",
+        "Dishes"
+    ],
+    "quantity": [
+        5,
+        4,
+        10
+    ],
+    "price": [
+        100.0,
+        10.0,
+        50.5
+    ],
+    "buyer": [
+        "Grekov Maksim"
+    ],
+    "date": [
+        "12.04.23"
+    ]
+}
